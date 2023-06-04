@@ -1,0 +1,1 @@
+print("Hello, cong tru nhan chia")
